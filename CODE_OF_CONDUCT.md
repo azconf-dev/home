@@ -1,6 +1,7 @@
 # Contributor Covenant Code of Conduct
 
-This is the code of conduct for the azconf-dev guthub org. The conference will have it's own code of Conduct and will be clearly mentioned in the conference website and welcome note of the conference.
+This is the code of conduct for the azconf-dev github org. 
+**The conference will have it's own code of conduct and will be highlighted on the website and welcome note of the conference.**
 
 ## Our Pledge
 
