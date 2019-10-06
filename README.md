@@ -1,14 +1,12 @@
 # Home
 
-AzConf is a non-profit,community driven tech conference run by developers for developers.  
-
-This is the landing repository for AzConf. If you are interested in participating and / or learning more about the conference and its core values, then this is the repo for you !!!
+This is the landing repository for AzConf. AzConf is a non-profit,community driven tech conference run by developers for developers. If you are interested in participating and / or learning more about the conference and its core values, then this is the repo for you...
 
 This repository serves the following purposes:
 
-- Understand the [core values](#core-values) that drive AzConf
-- Document how to run a succesful event for current & future organizers.
-- Record what works when running an event & what is to be avoided.
+- Communicate the [core values](#core-values) that drive AzConf.
+- Document the processes and decisions for current & future organizers.
+- Record the ideas that worked, the ones that didn't work and how we can improve.
 
 ## Core Values
 
