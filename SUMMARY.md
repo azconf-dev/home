@@ -1,7 +1,5 @@
 # Summary
 
-## Introduction
-
 - [About AzConf](GITBOOK.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 
