@@ -1,6 +1,6 @@
 # Summary
 
-- [About AzConf](GITBOOK.md)
+- [AzConf](GITBOOK.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ---

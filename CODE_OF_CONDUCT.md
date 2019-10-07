@@ -60,7 +60,7 @@ You can make a personal report by:
 - Contacting the organizers who are identified by a clearly marked **STAFF** shirt.
 - Sending a direct message to our Twitter account: "TODO"
 - Emailing us: "TODO"
-- Emails and Twitter direct messages will be monitored by our media officer "TODO" as well as select subset of the organizing team.
+- Emails and Twitter direct messages will be monitored by our Code of Conduct guardian "TODO" as well as select subset of the organizing team.
 
 When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. Once safe, we'll ask you to tell us about what happened. This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you. You won't be asked to confront anyone and we won't tell anyone who you are.
 
@@ -71,8 +71,6 @@ You can also make an anonymous report. Please note that without a way to contact
 In cases where a public response is deemed necessary, the identities of victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
 While all reports will be taken seriously, the Code of Conduct Guardian may not act on complaints that they feel are not violations of this code of conduct.
-
-## THANKS
 
 Thank you to every AzConf participant for making AzConf a kind, safe and welcoming space.
 
