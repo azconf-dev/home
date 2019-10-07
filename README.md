@@ -8,8 +8,7 @@ This repository serves the following purposes:
 - Document the processes and decisions for current & future organizers.
 - Record the ideas that worked, the ones that didn't work and how we can improve.
 
-
-## Code of Conduct 
+## Code of Conduct
 
 Please make sure to read our [Code of Conduct](CODE_OF_CONDUCT.md)
 
