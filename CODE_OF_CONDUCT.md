@@ -4,7 +4,7 @@ AzConf, all its venues and online spaces are an inclusive environment, based on 
 
 This Code of Conduct outlines our expectations as well as the consequences for unacceptable behavior. We expect all conference participants (organizers, sponsors, venue staff, volunteers, speakers, attendees, and other guests) to abide by this code of conduct at all conference venues and conference-related social events.
 
-## RESPECTFUL BEHAVIOR INCLUDES
+## Respectful Behaviour Includes
 
 - Be considerate, kind, constructive and helpful.
 - Treat everyone with respect and dignity.
@@ -13,7 +13,7 @@ This Code of Conduct outlines our expectations as well as the consequences for u
 - If you're not sure, ask someone instead of assuming.
 - Alert conference organizers if you notice a dangerous situation or someone in distress.
 
-## UNACCEPTABLE BEHAVIOUR
+## Unacceptable Behaviour Includes
 
 - Intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any attendees.
 - Offensive or disrespectful comments related to gender, gender identity and expression, sexual orientation, mental illness, physical appearance, race, religion or disability.
@@ -26,7 +26,7 @@ This Code of Conduct outlines our expectations as well as the consequences for u
 - Wearing clothing that is not suitable for a professional work environment, that is provocative or otherwise potentially offensive.
 - Failure to obey any rules or regulations of the venue.
 
-## WHAT TO DO IF YOU WITNESS OR ARE SUBJECT TO UNACCEPTABLE BEHAVIOR
+## What to do if you witness or are subject to unacceptable behaviour
 
 You are empowered to politely engage when you feel that someone is engaging in unacceptable behavior. The person engaging in unacceptable behavior may not be aware of what they are doing - politely bringing their behavior to their attention is encouraged.
 
@@ -36,11 +36,11 @@ The AzConf Organizing Team will be available to help participants contact venue 
 
 If you experience unacceptable behavior and feel in any way unable to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of a member of the DPC Team. We want to hear from you about anything that you feel is disrespectful, threatening, or just icky in any way. We will listen and work to resolve the matter.
 
-## APOLOGIZE FOR MISTAKES
+## Apologize
 
 Should you catch yourself engaging in unacceptable behavior, or be confronted as such, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. What matters is how you handle them, and avoiding repeating them in the future.
 
-## CONSEQUENCES OF UNACCEPTABLE BEHAVIOUR
+## Consequences of Unacceptable Behaviour
 
 Unacceptable behavior will not be tolerated whether by other attendees, media, speakers, volunteers, organizers, venue staff, sponsors or exhibitors.
 
@@ -53,7 +53,7 @@ Participants warned to stop any harassing behavior are expected to comply immedi
 - a temporary expulsion and exclusion from the event without warning or refund
 - a permanent expulsion and exclusion from the event without warning or refund
 
-## REPORTING & CONTACT
+## Reporting & Contact
 
 You can make a personal report by:
 
@@ -74,6 +74,6 @@ While all reports will be taken seriously, the Code of Conduct Guardian may not 
 
 Thank you to every AzConf participant for making AzConf a kind, safe and welcoming space.
 
-## CREDITS
+## Credits
 
 This Code of Conduct is borrowed from the [Dutch PHP Conference](https://www.phpconference.nl/conference-code-conduct)
