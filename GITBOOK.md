@@ -2,7 +2,7 @@
 
 We saw the need of a conference
 
-- Catering to a general web / cloud and other development technologies.
+- Catering to a web / cloud and related technologies.
 - Non-profit and community driven.
 - With the right balance of local / international speakers.
 
