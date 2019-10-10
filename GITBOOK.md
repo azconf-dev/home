@@ -2,7 +2,7 @@
 
 We saw the need of a conference
 
-- Catering to a web / cloud and related technologies.
+- Catering to developers working web / cloud and related technologies.
 - Non-profit and community driven.
 - With the right balance of local / international speakers.
 
@@ -19,7 +19,7 @@ AzConf will be a not-for-profit, community driven conference by developers for d
 - Cloud Native Technologies.
 - Javascript and Web Development.
 - Life Hacks / Career / Work Skills.
-- IoT, Open Source Hardware.
+- IoT, Open Source Hardware and Security.
 
 ## Our Core Values
 
