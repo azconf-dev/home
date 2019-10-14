@@ -6,6 +6,6 @@ This repository serves the following purposes:
 
 - Communicate the [core values](#core-values) that drive AzConf.
 - Document the processes and decisions for current & future organizers.
-- Record the ideas that worked, the ones that didn't work and how we can improve.
+- Record the ideas that worked, the ones that didn't work and how we improved over time.
 
 The repo's contents are [published here as a gitbook](https://docs.azconf.dev/)
