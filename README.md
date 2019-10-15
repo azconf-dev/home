@@ -4,7 +4,7 @@ This is the landing repository for AzConf. AzConf is a non-profit,community driv
 
 This repository serves the following purposes:
 
-- Communicate the [core values](#core-values) that drive AzConf.
+- Communicate the core values that drive AzConf.
 - Document the processes and decisions for current & future organizers.
 - Record the ideas that worked, the ones that didn't work and how we improved over time.
 
