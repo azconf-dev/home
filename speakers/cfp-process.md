@@ -17,3 +17,14 @@ This means after the evaluation is over, we categorize the submissions in 3 cate
 We first send out decline emails to those who submitted. Including a detailed explanation of the reasons behind this decision is not a feasible reality for the agenda committee and we hope you will understand this. Please do not take this personal !! We did not decline you as a person, we declined your session in this conference after comparing with other submissions. Please continue to submit in our future events and other conferences. Good Luck.
 
 We then send out accepted email and in the process we might receive emails from speakers that they have other engagements and can't make it here. That is ok and as organizers we fall back into the wait list category and therefore submissions in the wait list category might recieve their accept / reject emails slightly later.
+
+## Speaker Coaching
+
+After your submission is accepted, we invite you to a slack workspace and then we pair two speakers up where they prepare for the talk. Think pair programming, but for conference talks. We would ideally pair people with different experience levels but similar interests.
+
+The experienced speaker gets the benefit of hearing from someone who might have the same context / level of understanding and the inexperienced speaker gets tips on upping his conference talk preparation. There are other benefits such as
+
+- The international speakers can localize the talk.
+- As a team, you agree on timelines and not procrastinate.
+- Slides / Tone / Content peer-reviewed.
+- Overall helps you be better prepared and confident.
