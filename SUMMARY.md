@@ -9,27 +9,21 @@
 
 ## Speakers
 
-- [Tips to get your talk accepted](./speakers/cfp-tips.md)
-- [CFP Process and Tools](./speakers/cfp-process.md)
-- [Speakers FAQ](./speakers/faq.md)
+- [CFP Process](./speakers/cfp-process.md)
+- [Getting your talk accepted](./speakers/cfp-tips.md)
+- [What we offer to speakers](./speakers/faq.md)
 - [Speaker Undertaking Form](./speakers/speaker-undertaking.md)
 
 ---
 
 ## Sponsors
 
-- [Introduction](./sponsors/intro.md)
+- [Become a Sponsor](./sponsors/intro.md)
 - [Sponsor Booth Details](./sponsors/index.md)
-
----
-
-## Attendees
-
-- [Attendees](./attendees/index.md)
 
 ---
 
 ## Organizers
 
-- [Organizers](./organizers/index.md)
+- [Registration Guide](./organizers/registration-guide.md)
 - [Conference Checklist](./organizers/checklist.md)

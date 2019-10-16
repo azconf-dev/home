@@ -36,7 +36,7 @@ The event registration form must have the following questions
 
 ## Refund Policy and Update Registration Details
 
-**No refunds are available. Period.**
+**No refunds are available**
 
 The attendees are welcome to send someone else in their place and transfer tickets through the Townscript website. In order to facilitate this process, we configure townscript to allow "Transfer of Tickets". Additionally, we also configure townscript to allow attendees to update details after registration in the rare chance that we decide to collect additional information later. This allows people to login to Townscript and update their registration details.
 

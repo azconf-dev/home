@@ -48,6 +48,6 @@
 
 - Slides are a small part of the overall talk and in isolation might be misleading. So we understand if you don't want to share the slides with us / audience.
 
-- We provide you with HDMI, VGA connectors and international power adapters. If there is another connector you need, let us know. We also recommend bringing your own connectors as a back-up. Please make sure to do the tech checks in advance.
+- We provide you with HDMI, VGA, USB-C connectors and international power adapters. If there is another connector you need, let us know. We also recommend bringing your own connectors as a back-up. Please make sure to do the tech checks in advance.
 
 - You will also be provided with a 16:9 projector, slide switcher, confidence monitors displaying the time remaining, your slides and a wireless microphone to give you flexibility on the stage. Remember, we said the stage is all yours.
