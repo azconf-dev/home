@@ -28,6 +28,16 @@
 
 ## The stage is all yours
 
+- All talks are 45 minutes long. The room size is X' x Y' and will have 200 people.
+
+- You are free to engage in QA on stage or offline in the hallways. We strongly recommend you chat face to face in the hallway because **"science"**. Let us explain
+
+  - As a speaker, you were awesome on stage and just finished strongly. Thank you slide comes on and there is a big round of applause. Ta-Da !! QA here only drags down the party. You only usually finish QA at the lowest point ("any more questions? no? no? ok... awkward silence.. I guess that's it).
+
+  - Other attendees are likely not interested in Q&A and you are having a awkward conversation with you on stage and can barely see the person asking you a question.
+
+  - The questions in the hallway are detailed and unique. Questions aren't to blame, it's the forum. But again, it is upto you.
+
 - Your talk will be recorded and later be published online (with speakers retaining copyright) and **not** be behind a paywall. We can provide professional pictures of you speaking on stage which can build your profile as a conference speaker. A conference needs to be a mutually beneficial relationship.
 
 - This requires that you agree to a [speaker undertaking form](./speaker-undertaking.md) . You can of-course opt out of being recorded / published.
