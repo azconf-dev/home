@@ -76,4 +76,4 @@ Thank you to every AzConf participant for making AzConf a kind, safe and welcomi
 
 ## Credits
 
-This Code of Conduct is borrowed from the [Dutch PHP Conference](https://www.phpconference.nl/conference-code-conduct)
+This Code of Conduct is borrowed from the [Dutch PHP Conference](https://www.phpconference.nl/conference-code-conduct) and will be highlighted along with venue's safety instructions in the opening remarks before the keynote.
