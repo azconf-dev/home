@@ -16,7 +16,7 @@
 
 - As a speaker you get a free-pass to the conference but we require that you register on our ticketing system using a complementary code that we provide so that you are "in the system". The same policy applies to sponsors, organizers etc.
 
-## include<everyone.h>
+## Inclusive Space
 
 - We will make every effort to put together a diverse speaker line-up / panel where everyone is included and feels welcome. You can help us in the process by sharing the stage and / or asking someone from an under-represented group to submit to the CFP. [Lend Your Privilege](https://www.youtube.com/watch?v=8Nvg-MMtN_A). We do not invite someone from an under-represented group to talk about being underrepresented or as some sort of tokenism.
 
