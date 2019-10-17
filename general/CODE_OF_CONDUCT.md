@@ -34,7 +34,7 @@ If you are uncomfortable speaking up, or feel that your concerns are not being d
 
 The AzConf Organizing Team will be available to help participants contact venue security or local law enforcement, to provide escorts, or to otherwise assist those experiencing unacceptable behavior to feel safe for the duration of the conference. You can report unacceptable behavior to any member of staff, who in turn will contact the Code of Conduct Guardian. Members of the AzConf Team can be identified by a clearly marked **STAFF** shirt.
 
-If you experience unacceptable behavior and feel in any way unable to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of a member of the DPC Team. We want to hear from you about anything that you feel is disrespectful, threatening, or just icky in any way. We will listen and work to resolve the matter.
+If you experience unacceptable behavior and feel in any way unable to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of a member of the AzConf team. We want to hear from you about anything that you feel is disrespectful, threatening, or just icky in any way. We will listen and work to resolve the matter.
 
 ## Apologize
 
@@ -59,7 +59,7 @@ You can make a personal report by:
 
 - Contacting the organizers who are identified by a clearly marked **STAFF** shirt.
 - Sending a direct message to our Twitter account: "TODO"
-- Emailing us: "TODO"
+- Emailing us: [codeofconduct@azconf.dev](mailto:codeofconduct@azconf.dev)
 - Emails and Twitter direct messages will be monitored by our Code of Conduct guardian "TODO" as well as select subset of the organizing team.
 
 When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. Once safe, we'll ask you to tell us about what happened. This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you. You won't be asked to confront anyone and we won't tell anyone who you are.

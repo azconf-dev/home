@@ -24,29 +24,25 @@
 
 - There will be a speaker room / quiet spaces in the venue where you can re-energize.
 
-- The conference venue and the associated spaces will be accessible. This includes the registration area, room seating, stage, ramp, podium, lunch buffet, networking spaces and restrooms. Check our [accessibility guide](../general/ACCESSIBILITY.md)
+- The conference venue and the associated spaces will be accessible. This includes the registration area, room seating, stage, ramp, podium, lunch buffet, networking spaces and restrooms. Check our [accessibility guide](../general/ACCESSIBILITY.md).
 
 ## The stage is all yours
 
 - All talks are 45 minutes long. The room size is X' x Y' and will have 200 people.
 
-- You are free to engage in QA on stage or offline in the hallways. We strongly recommend you chat face to face in the hallway because **"science"**. Let us explain
+- You are free to engage in QA on stage or offline in the hallways. We strongly recommend you take questions "offline" in the hallway because **"science"**. Let us explain
 
-  - As a speaker, you were awesome on stage and just finished strongly. Thank you slide comes on and there is a big round of applause. Ta-Da !! QA here only drags down the party. You only usually finish QA at the lowest point ("any more questions? no? no? ok... awkward silence.. I guess that's it).
+  - As a speaker, you were amazing on stage and finished strongly. The "thank you" slide comes on and there is a big round of applause. Ta-Da !! QA here only drags it down from here. You only usually finish QA at the lowest point ("any more questions? no? no? ok... awkward silence.. I guess that's it).
 
-  - Other attendees are likely not interested in Q&A and you are having a awkward conversation with you on stage and can barely see the person asking you a question.
+  - Other attendees are likely not interested in Q&A and maybe vacating the rooms. You are having a awkward conversation where you are on stage and can barely see the person asking you a question while a good portion of the room might be moving out.
 
-  - The questions in the hallway are detailed and unique. Questions aren't to blame, it's the forum. But again, it is upto you.
+  - We are not against Q & A. We just don't think this is the right forum. The questions in the hallway are detailed and unique. But again, it is up to you.
 
-- Your talk will be recorded and later be published online (with speakers retaining copyright) and **not** be behind a paywall. We can provide professional pictures of you speaking on stage which can build your profile as a conference speaker. A conference needs to be a mutually beneficial relationship.
+- Your talk will be recorded and later be published online (with speakers retaining copyright) and **not** be behind a paywall. We can provide professional pictures of you speaking on stage which can build your profile as a conference speaker. This requires that you agree to a [speaker undertaking form](./speaker-undertaking.md). You can of-course opt out of being recorded / published.
 
-- This requires that you agree to a [speaker undertaking form](./speaker-undertaking.md) . You can of-course opt out of being recorded / published.
+- We understand that we cannot fit your uniqueness in a template and so we **don't force any slide template**. That said, presentations should refrain from including content that would be considered as purely promoting a product or service like your company logo on all the slides.
 
-- We understand that we cannot fit your uniqueness in a template and so we **don't** force any slide template. That said, presentations should refrain from including content that would be considered as purely promoting a product or service like your company logo on all the slides.
-
-- We know that your slides / code demos take a ton of time to design and create and might need software installed on your machine and so we are ok with you presenting in a system that you are comfortable with.
-
-- Slides are a small part of the overall talk and in isolation might be misleading. So we understand if you don't want to share the slides with us / audience.
+- We know that your slides / code demos take a ton of time to design and create and might need software installed on your machine and so we are ok with you **presenting in your own laptop that you are comfortable with**.
 
 - We provide you with HDMI, VGA, USB-C connectors and international power adapters. If there is another connector you need, let us know. We also recommend bringing your own connectors as a back-up. Please make sure to do the tech checks in advance.
 
