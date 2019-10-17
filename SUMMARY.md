@@ -18,8 +18,8 @@
 
 ## Sponsors
 
-- [Become a Sponsor](./sponsors/intro.md)
-- [Sponsor Booth Details](./sponsors/index.md)
+- [Become a Sponsor](./sponsors/become-a-sponsor.md)
+- [Sponsor Booth Details](./sponsors/boothdetails.md)
 
 ---
 
