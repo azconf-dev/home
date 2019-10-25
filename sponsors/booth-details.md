@@ -28,6 +28,10 @@ Booth location is decided by organizers based on the sponsorship level and then 
 - 1 banquet table
 - 2 banquet chairs
 
-While these materials are provided the size of the booth, table, chairs and TV's depends heavily on the venue and is therefore subject to change. We make all efforts to ensure that the tables are at least 6' and backdrop is 8' x 10' (height x weight).
+The size of the booth, table, chairs and TV's depends on the venue. We make all efforts to ensure that the 
 
-In case you need any thing else that is not listed here, please feel free to contact us at **sponsorship@azconf.dev**
+- Tables are at least 6'
+- Backdrop is 8' x 10' (height x weight).
+- Screen Size of the TV is at least 32 inch.
+
+In case you have questions regarding booth size, please feel free to contact us at [sponsorship@azconf.dev](mailto:sponsorship@azconf.dev)

@@ -11,7 +11,7 @@ A good submission is the most important part. Here are hand-picked articles abou
 - [Making an offer I can't refuse, Niall Merrigan](https://blog.ndcconferences.com/make-me-an-offer-i-cant-refuse-writing-an-abstracts-for-a-cfp/)
 - [How to get your submission accepted at NDC London, Chris O'Dell](https://www.youtube.com/watch?v=Ah13fl6VZag)
 
-## Other Useful Resources
+## On crafting a story arc and slide design
 
 People don't remember facts, figure and trivia. They remember stories. Tell one.
 
@@ -19,14 +19,8 @@ People don't remember facts, figure and trivia. They remember stories. Tell one.
 - [The art of slide design, Melinda Seckington](https://www.youtube.com/watch?v=AoeeLl5FC-M)
 - [Slide Design for Developers, Zach Holman](https://zachholman.com/posts/slide-design-for-developers/)
 
-## End-to-End Guide
-
-Everything you need to know abstracts, rehearsals, tech checks and preparing for failure.
+## On Abstracts, Practicing, Tech Checks and preparing for failure
 
 - If you are only going to pick one link from here, then pick this speaking guide from [Zach Holman](https://speaking.io/)
-- Here is a 4 hour pluralsight course on [Speaking Fundamentals by Scott Hanselman & Rob Conery](https://www.pluralsight.com/courses/speaking-fundamentals)
-- Twitter has spoken and the result is a [collection of speaker tips](https://blog.usejournal.com/things-i-wish-id-known-tips-for-first-time-conference-speakers-ffa4ca438ea)
-  
-## Mentorship
-
-- [Speaking Mentors](http://www.speakingmentors.com)
+- Here is a 4 hour *paid* pluralsight course on [Speaking Fundamentals by Scott Hanselman & Rob Conery](https://www.pluralsight.com/courses/speaking-fundamentals)
+- Here is a [collection of speaker tips](https://blog.usejournal.com/things-i-wish-id-known-tips-for-first-time-conference-speakers-ffa4ca438ea) from twitter

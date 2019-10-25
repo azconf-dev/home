@@ -55,18 +55,16 @@ Participants warned to stop any harassing behavior are expected to comply immedi
 
 ## Reporting & Contact
 
-You can make a personal report by:
+You can make a personal / anonymous (using a throwaway account) report by
 
 - Contacting the organizers who are identified by a clearly marked **STAFF** shirt.
 - Sending a direct message to our Twitter account: "TODO"
-- Emailing us: [codeofconduct@azconf.dev](mailto:codeofconduct@azconf.dev)
+- Emailing us at [codeofconduct@azconf.dev](mailto:codeofconduct@azconf.dev)
 - Emails and Twitter direct messages will be monitored by our Code of Conduct guardian "TODO" as well as select subset of the organizing team.
 
 When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. Once safe, we'll ask you to tell us about what happened. This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you. You won't be asked to confront anyone and we won't tell anyone who you are.
 
-Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance.
-
-You can also make an anonymous report. Please note that without a way to contact you, an anonymous report may be difficult to act on. You may also create a throwaway account to report.
+Our team will be happy to help you contact hotel / venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance.
 
 In cases where a public response is deemed necessary, the identities of victims and reporters will remain confidential unless those individuals instruct us otherwise.
 

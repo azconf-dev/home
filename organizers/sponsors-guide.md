@@ -1,8 +1,7 @@
 # Sponsorship Prospectus
 
-Az Conf has a sponsorship prospectus which should be modified for the appropriate event and then sent to sponsors as a PDF and also listed on the conference website.
-
 Below are some sample email formats
+
 ## Sponsorship request email template
 
 Hi [Sponsor],
@@ -31,24 +30,8 @@ Being a [level] sponsor, you are entitled to the benefits provided in the sponso
 
 **Important dates for the conference**
 
-* DDD Melbourne is currently accepting talk submissions. This closes on [date] at 6:00pm
+* AzConf is currently accepting talk submissions. This closes on [date] at 6:00pm
 * Voting for these sessions will be open till the [date]
 * Agenda will be published by the [date]
 * Ticket bookings open at 12:30 pm on [date]
 * The conference will be on [date].
-
-**Promoting yourself and the conference**
-
-* The website for the conference is [link]
-* If you are promoting the conference via Twitter, please use the hashtag #azconf[year]. Our twitter handle is [todo].
-
-* The tickets for the conference get sold out pretty quickly. Last year, a few sponsors raffled out a few tickets via Twitter, and it proved to be extremely popular.
-* Giveaways are a great way to promote your company brand. Sponsors usually ran online contests prior to the conference and the prize winners were declared on the day of the conference.
-
-* DDD Melbourne will also be giving out show bags to all attendees, and if you have any printed materials, we can include it in the show bag. You can also setup an exhibition booth at the venue during the conference.
-
-If you have any questions regarding the conference, please don’t hesitate to get in touch.
-Once again, Thank you for your support.
-
-Regards,
-[Whoever wrote the mail]

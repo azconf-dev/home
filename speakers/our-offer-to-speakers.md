@@ -2,48 +2,40 @@
 
 ## Travel and Accommodation Expenses
 
-- As a non-profit, we ask if your employer can cover your travel and stay expenses as an effort to reduce ticket costs. If that is not possible, we will cover your travel and stay expenses. We do not capture this info in the CFP and so has no say in the selection process.
+- As a non-profit, we ask if your employer can cover your travel and stay expenses as an effort to reduce ticket costs. If that is not possible, we will cover your travel and stay expenses.
 
-- We pay for your plane / train tickets (economy) and while we are happy to assist you, we recommend that you plan / arrange your own flights. The main issue is that once a lot of people are involved (speaker, organizers, travel company), email communication can become a nightmare. The idea is to have an arrangement where we give you X USD / INR for flights and you manage the rest.
+- We pay for your plane / train tickets (economy) and while we are happy to assist you with the bookings, we recommend that you plan / arrange your own flights. The main issue is that once a lot of people are involved (speaker, organizers, travel company), email communication can become a nightmare. The idea is to have an arrangement where we give you X USD / INR for travel and you can manage the rest.
 
 - We book and pay for your accommodation for the full length of conference plus an extra day.
 
-- We will invite you for a pre and post event dinner party which is a nice chance to meet and greet other speakers, organizers and volunteers.
-
 ## Speaker Honorarium
 
-- As a community driven event with low ticket prices, we **are not able** to pay the speakers an honorarium. If this changes in future and we are able to pay an honorarium, we will do so for all speakers and we will pay equally.
+- At this moment, we **are not able** to pay the speakers an honorarium. If this changes in future and we are able to pay an honorarium, we will do so for all speakers and we will pay equally.
 
-- As a speaker you get a free-pass to the conference but we require that you register on our ticketing system using a complementary code that we provide so that you are "in the system". The same policy applies to sponsors, organizers etc.
+- As a speaker, you get a free-pass to the whole conference but we require that you register on our ticketing system using a complementary code that we provide so that you are "in the system". The same policy applies to sponsors, organizers etc.
 
 ## Inclusive Space
 
-- We will make every effort to put together a diverse speaker line-up / panel where everyone is included and feels welcome. You can help us in the process by sharing the stage and / or asking someone from an under-represented group to submit to the CFP. [Lend Your Privilege](https://www.youtube.com/watch?v=8Nvg-MMtN_A). We do not invite someone from an under-represented group to talk about being underrepresented or as some sort of tokenism.
+- We ensure to put together a inclusive speaker line-up / panel where everyone is feels welcome. You can help us in the process by sharing the stage and / or asking someone from an under-represented group to submit to the CFP.
 
 - We have a [Code of Conduct](../CODE_OF_CONDUCT.md) that we expect everyone to adhere to. If for any reason the conference, other speakers, sponsors, attendees, third-party vendors, etc become problematic ( which you reserve the right to determine ), you have the right to withdraw from the conference at any point. We hope you never have to exercise this right. In most situations, we are confident that we can collaborate to find an effective, less dire solution to the problem.
 
 - There will be a speaker room / quiet spaces in the venue where you can re-energize.
 
-- The conference venue and the associated spaces will be accessible. This includes the registration area, room seating, stage, ramp, podium, lunch buffet, networking spaces and restrooms. Check our [accessibility guide](../general/ACCESSIBILITY.md).
+- The conference venue and the associated spaces will be accessible. This includes the conference venue, stage, hotel and networking spaces. Check our [accessibility guide](../general/ACCESSIBILITY.md).
 
 ## The stage is all yours
 
-- All talks are 45 minutes long. The room size is X' x Y' and will have 200 people.
+- All talks are 45 minutes long. You will be provided with a 16:9 projector, slide switcher, international adapters, HDMI, VGA, USB-C cables, confidence monitors, a wearable microphone and flexibility to use your own slides templates, your own laptop that you are comfortable with. We recommend doing the tech checks in advance.
 
-- You are free to engage in QA on stage or offline in the hallways. We strongly recommend you take questions "offline" in the hallway because **"science"**. Let us explain
+- Your talk will be recorded and later be published online (with speakers retaining copyright) and **not** be behind a paywall. This requires that you agree to a [speaker undertaking form](./speaker-undertaking.md). You can of-course opt out of being recorded / published.
 
-  - As a speaker, you were amazing on stage and finished strongly. The "thank you" slide comes on and there is a big round of applause. Ta-Da !! QA here only drags it down from here. You only usually finish QA at the lowest point ("any more questions? no? no? ok... awkward silence.. I guess that's it).
+- We strongly recommend you take questions separately in the hallway because **"science"**. Let us explain
+
+  - As a speaker, you were amazing on stage and finished strongly. The "thank you" slide comes on and there is a big round of applause. Ta-Da !! Now you can leave on a high note. Q&A here only drags it down from here.
 
   - Other attendees are likely not interested in Q&A and maybe vacating the rooms. You are having a awkward conversation where you are on stage and can barely see the person asking you a question while a good portion of the room might be moving out.
+  
+  - You might have questions like "but this other library does that". But that is not really a question and it creates an awkward moment. Questions in the hallway are carefully thought of and will be more thoughtful.
 
-  - We are not against Q & A. We just don't think this is the right forum. The questions in the hallway are detailed and unique. But again, it is up to you.
-
-- Your talk will be recorded and later be published online (with speakers retaining copyright) and **not** be behind a paywall. We can provide professional pictures of you speaking on stage which can build your profile as a conference speaker. This requires that you agree to a [speaker undertaking form](./speaker-undertaking.md). You can of-course opt out of being recorded / published.
-
-- We understand that we cannot fit your uniqueness in a template and so we **don't force any slide template**. That said, presentations should refrain from including content that would be considered as purely promoting a product or service like your company logo on all the slides.
-
-- We know that your slides / code demos take a ton of time to design and create and might need software installed on your machine and so we are ok with you **presenting in your own laptop that you are comfortable with**.
-
-- We provide you with HDMI, VGA, USB-C connectors and international power adapters. If there is another connector you need, let us know. We also recommend bringing your own connectors as a back-up. Please make sure to do the tech checks in advance.
-
-- You will also be provided with a 16:9 projector, slide switcher, confidence monitors displaying the time remaining, your slides and a wireless microphone to give you flexibility on the stage. Remember, we said the stage is all yours.
+  - And you finish QA at the lowest point. "Any more questions? no? ok.. awkward silence.. I guess that's it".

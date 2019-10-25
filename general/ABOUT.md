@@ -25,7 +25,7 @@ AzConf will be a not-for-profit, community driven conference by developers for d
 
 We want to
 
-- Be a non-profit and community driven. Now and always.
+- Be a non-profit and community driven.
 - Keep the ticket costs relatively low through responsible sponsorships.
 - Encourage new speakers whilst also having a good balance of known local / international speakers.
 - Be one of the best conferences that attendees, speakers, organizers and sponsors look forward to attend every year.
