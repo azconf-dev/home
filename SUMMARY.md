@@ -1,9 +1,9 @@
 # General Guide
 
-- [Home](./general/GITBOOK.md)
-- [About AzConf](./general/ABOUT.md)
-- [Code of Conduct](./general/CODE OF CONDUCT.md)
-- [Accessibility](./general/ACCESSIBILITY.md)
+- [Home](./general/gitbook.md)
+- [About AzConf](./general/about.md)
+- [Code of Conduct](./general/code-of-conduct.md)
+- [Accessibility](./general/accessibility.md)
 - [Contact](./general/contact.md)
 
 ---

@@ -10,10 +10,10 @@ At AzConf, we strive to keep the ticket costs relatively low through **"responsi
 
 - Sponsors of selected tiers are eligible for a single speaking slot through a separate CFP process exclusive for sponsors. Each sponsor can submit a maximum of 3 talks and agenda committee picks the talk that best suits the conference agenda.
 
-## Promote yourself and the conference
+## Promoting Yourself
 
 - If you are promoting the conference on social media, please use the hashtag #azconf2020.
 
 - Sponsors can raffle out few tickets via social media, and it is usually extremely popular.
 
-- Giveaways are another great way to promote your company brand. Sponsors can run online contests prior to the conference and the prize winners were declared on the day of the conference.
+- Giveaways are another great way to promote your company brand. Sponsors can run online contests prior to the conference and the prize winners can be declared on the day of the conference.

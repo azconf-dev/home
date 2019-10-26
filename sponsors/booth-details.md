@@ -28,7 +28,7 @@ Booth location is decided by organizers based on the sponsorship level and then 
 - 1 banquet table
 - 2 banquet chairs
 
-The size of the booth, table, chairs and TV's depends on the venue. We make all efforts to ensure that the 
+The size of the booth, table, chairs and TV's depends on the venue. We make all efforts to ensure that the
 
 - Tables are at least 6'
 - Backdrop is 8' x 10' (height x weight).
