@@ -34,4 +34,8 @@ The size of the booth, table, chairs and TV's depends on the venue. We make all 
 - Backdrop is 8' x 10' (height x weight).
 - Screen Size of the TV is at least 32 inch.
 
-In case you have questions regarding booth size, please feel free to contact us at [sponsorship@azconf.dev](mailto:sponsorship@azconf.dev)
+Sponsors are required to adhere to the [code of conduct](../CODE_OF_CONDUCT.md) which extends to the logo, social media campaigns,kit inserts, swag and the booth. Size restrictions apply to the pull-up banners and the kit inserts must be pre-approved by the organizers to avoid repetition of items.
+
+Participant details will not be shared without their explicit permission. All sponsors are free to collect details of attendees who visit your booth with their consent.
+
+In case you have questions, please feel free to contact us at [sponsorship@azconf.dev](mailto:sponsorship@azconf.dev)
