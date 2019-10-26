@@ -4,16 +4,12 @@ All conferences have a Call for Papers (CFP). Writing a good proposal is paramou
 
 ## Writing a good proposal
 
-A good submission is the most important part. Here are hand-picked articles about submitting a good conference proposal
-
 - [7 Tips for Getting CFP Accepted, Cory House](https://medium.com/@housecor/conference-speaker-here-s-7-tips-for-getting-accepted-6151af513148#.7tc60xofe)
 - [What your CFP is missing, Sarah Mei](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
 - [Making an offer I can't refuse, Niall Merrigan](https://blog.ndcconferences.com/make-me-an-offer-i-cant-refuse-writing-an-abstracts-for-a-cfp/)
 - [How to get your submission accepted at NDC London, Chris O'Dell](https://www.youtube.com/watch?v=Ah13fl6VZag)
 
 ## On crafting a story arc and slide design
-
-People don't remember facts, figure and trivia. They remember stories. Tell one.
 
 - [Your Perfect Tech Talk with Saron Yitbarek](https://www.youtube.com/watch?v=AzVr_nsKoZs)
 - [The art of slide design, Melinda Seckington](https://www.youtube.com/watch?v=AoeeLl5FC-M)
