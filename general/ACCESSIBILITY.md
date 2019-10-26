@@ -7,5 +7,3 @@ As organizers, we make every effort to co-ordinate with the venue providers to e
 - Quiet Spaces and Prayer rooms for speakers and attendees.
 - We offer veg / non-veg / gluten-free / vegan meals based on food preference captured during registration.
 - We ensure that the website is accessible using Google Lighthouse.
-
-At this moment, we are not in a position to commit on Day Care and Live Captioning.

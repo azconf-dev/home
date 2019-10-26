@@ -1,6 +1,6 @@
 # General Guide
 
-- [Home](./general/gitbook.md)
+- [Home](./general/intro.md)
 - [About AzConf](./general/about.md)
 - [Code of Conduct](./general/code-of-conduct.md)
 - [Accessibility](./general/accessibility.md)
