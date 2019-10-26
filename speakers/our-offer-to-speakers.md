@@ -1,6 +1,6 @@
 # Speakers FAQ
 
-## Travel and Accommodation Expenses
+## :airplane: Travel and Accommodation Expenses
 
 - As a non-profit, we ask if your employer can cover your travel and stay expenses as an effort to reduce ticket costs. If that is not possible, we will cover your travel and stay expenses.
 
