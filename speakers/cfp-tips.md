@@ -1,6 +1,6 @@
 # Tips to get your talk accepted
 
-All conferences have a Call for Papers (CFP). Writing a good proposal is paramount to getting accepted. Each conference is different and therefore the CFP evaluation process are also different. A convincing abstract, professional head-shot, and a impressive bio will surely improve your chances of getting through. Below are some tips that we think you will find useful.
+Az Conf like all conferences have a Call for Papers (CFP). Writing a good proposal is paramount to getting accepted. A convincing abstract, professional head-shot, and a impressive bio will surely improve your chances of getting through. Below are some tips that we think you will find useful.
 
 ## Writing a good proposal
 
@@ -15,7 +15,7 @@ All conferences have a Call for Papers (CFP). Writing a good proposal is paramou
 - [The art of slide design, Melinda Seckington](https://www.youtube.com/watch?v=AoeeLl5FC-M)
 - [Slide Design for Developers, Zach Holman](https://zachholman.com/posts/slide-design-for-developers/)
 
-## On Abstracts, Practicing, Tech Checks and preparing for failure
+## On Abstracts, Practicing, Tech Checks and Preparing for Failure
 
 - If you are only going to pick one link from here, then pick this speaking guide from [Zach Holman](https://speaking.io/)
 - Here is a 4 hour *paid* pluralsight course on [Speaking Fundamentals by Scott Hanselman & Rob Conery](https://www.pluralsight.com/courses/speaking-fundamentals)
