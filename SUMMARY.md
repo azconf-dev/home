@@ -1,7 +1,7 @@
 # General Guide
 
 - [Home](./general/intro.md)
-- [About AzConf](./general/about-azconf.md)
+- [About Az Conf](./general/about-azconf.md)
 - [Code of Conduct](./general/code-of-conduct.md)
 - [Accessibility](./general/accessibility-guide.md)
 - [Contact](./general/contact.md)

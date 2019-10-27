@@ -1,6 +1,6 @@
 # Code Of Conduct
 
-AzConf, all its venues and online spaces are an inclusive environment, based on treating all individuals respectfully, regardless of gender and gender expression, sexual orientation, age, disability (physical or mental), nationality, race, ethnicity, religion (or lack thereof), physical appearance, lifestyle choices, software preferences or other dimensions of diversity. We value respectful behavior above individual opinions.
+Az Conf, all its venues and online spaces are an inclusive environment, based on treating all individuals respectfully, regardless of gender and gender expression, sexual orientation, age, disability (physical or mental), nationality, race, ethnicity, religion (or lack thereof), physical appearance, lifestyle choices, software preferences or other dimensions of diversity. We value respectful behavior above individual opinions.
 
 This Code of Conduct outlines our expectations as well as the consequences for unacceptable behavior. We expect all conference participants (organizers, sponsors, venue staff, volunteers, speakers, attendees, and other guests) to abide by this code of conduct at all conference venues and conference-related social events.
 
@@ -32,9 +32,9 @@ You are empowered to politely engage when you feel that someone is engaging in u
 
 If you are uncomfortable speaking up, or feel that your concerns are not being duly considered, please notify the Code of Conduct Guardian as soon as possible (contact details below). All concerns shared with us will be kept confidential, but you may also submit an anonymous report.
 
-The AzConf Organizing Team will be available to help participants contact venue security or local law enforcement, to provide escorts, or to otherwise assist those experiencing unacceptable behavior to feel safe for the duration of the conference. You can report unacceptable behavior to any member of staff, who in turn will contact the Code of Conduct Guardian. Members of the AzConf Team can be identified by a clearly marked **STAFF** shirt.
+The Az Conf Organizing Team will be available to help participants contact venue security or local law enforcement, to provide escorts, or to otherwise assist those experiencing unacceptable behavior to feel safe for the duration of the conference. You can report unacceptable behavior to any member of staff, who in turn will contact the Code of Conduct Guardian. Members of the Az Conf Team can be identified by a clearly marked **STAFF** shirt.
 
-If you experience unacceptable behavior and feel in any way unable to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of a member of the AzConf team. We want to hear from you about anything that you feel is disrespectful, threatening, or just icky in any way. We will listen and work to resolve the matter.
+If you experience unacceptable behavior and feel in any way unable to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of a member of the Az Conf team. We want to hear from you about anything that you feel is disrespectful, threatening, or just icky in any way. We will listen and work to resolve the matter.
 
 ## Apologize
 
@@ -70,7 +70,7 @@ In cases where a public response is deemed necessary, the identities of victims 
 
 While all reports will be taken seriously, the Code of Conduct Guardian may not act on complaints that they feel are not violations of this code of conduct.
 
-Thank you to every AzConf participant for making AzConf a kind, safe and welcoming space.
+Thank you to every Az Conf participant for making Az Conf a kind, safe and welcoming space.
 
 ## Credits
 

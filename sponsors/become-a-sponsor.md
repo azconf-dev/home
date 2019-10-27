@@ -1,6 +1,6 @@
 # Sponsorship Guide
 
-At AzConf, we strive to keep the ticket costs relatively low through **"responsible sponsorships"**. Sponsoring AzConf is a great way to gain visibility and branding by
+At Az Conf, we strive to keep the ticket costs relatively low through **"responsible sponsorships"**. Sponsoring Az Conf is a great way to gain visibility and branding by
 
 - Showcasing your product and solutions
 - Meet with potential users, customers and partners

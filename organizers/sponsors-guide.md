@@ -6,7 +6,7 @@ Below are some sample email formats
 
 Hi [Sponsor],
 
-I am one of the organizers for the conference "AzConf [year]" in [Location], and after [x] successful years of running the event, we are running it again this year. The event is on [date] and will be held at [venue].
+I am one of the organizers for the conference "Az Conf [year]" in [Location], and after [x] successful years of running the event, we are running it again this year. The event is on [date] and will be held at [venue].
 
 It is a full day community driven conference run by developers, for developers and like previous years we will be charging a small fee to cover some expenses and to help encourage people who register to actually turn up. We are also relying heavily on sponsors to cover our costs and we have 4 levels of sponsorships and the respective benefits are available in the attached document for your referral.
 
@@ -16,7 +16,7 @@ We are expecting 800+ of the best developers working on web development, cloud d
 
 Thanks and Regards,
 [Whoever wrote the email]
-(on behalf on AzConf organizers)
+(on behalf on Az Conf organizers)
 
 ## Sponsorship confirmation letter
 
@@ -30,7 +30,7 @@ Being a [level] sponsor, you are entitled to the benefits provided in the sponso
 
 **Important dates for the conference**
 
-* AzConf is currently accepting talk submissions. This closes on [date] at 6:00pm
+* Az Conf is currently accepting talk submissions. This closes on [date] at 6:00pm
 * Voting for these sessions will be open till the [date]
 * Agenda will be published by the [date]
 * Ticket bookings open at 12:30 pm on [date]
