@@ -9,8 +9,8 @@ While the initial rounds of the evaluation process is anonymized, when it comes 
 This means after the evaluation is over, the submissions end-up in 3 categories.
 
 - Declined
-- Accepted (20)
-- Wait List (10)
+- Accepted
+- Wait List
 
 We first send out decline emails to those who submitted. Including a detailed explanation of the reasons behind this decision is not feasible for the agenda committee and we hope you will understand this. Please, please do not take this personal !! We did not decline you as a person, we declined your session in this conference after comparing with other submissions. Please continue to submit in our future events and other conferences. We would love to host you at our local monthly meetups and maybe next year you can be on the invited guests next year.
 
