@@ -1,5 +1,7 @@
 # About Az Conf
 
+![Az Conf Logo](logo.png)
+
 **[Az Conf 2020](https://www.azconf.dev/)** is a 2 day multi-track conference at Bangalore, India on June 18th and 19th. The conference is aimed at Cloud and Web Developers working with open source and cloud native technologies on the Microsoft Stack. We host technology experts from India and abroad to educate, network, and share their expertise with the 800+ attendees on
 
 - C#, .NET and ASP.NET Core
