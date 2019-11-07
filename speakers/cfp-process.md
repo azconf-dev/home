@@ -1,6 +1,6 @@
 # Speaker Selection Process
 
-Az Conf is a 2 day conference with multiple tracks. Each track is expected to have about 10 talks each over the course of 2 days.
+AzConf is a 2 day conference with multiple tracks. Each track is expected to have about 10 talks each over the course of 2 days.
 
 As the inaugural event, we have decided to fill around 50% of talks by inviting "known, regular speakers". These speakers will be a good balance of local / international conference speakers and people who are a regular in the local meetup scene and are ready to level up. We choose the remaining 50% of the talks via a CFP through [Sessionize](https://sessionize.com).
 

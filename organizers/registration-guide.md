@@ -1,4 +1,4 @@
-# Az Conf Registration
+# AzConf Registration
 
 We have decided to go with [Townscript](https://www.townscript.com) to manage registrations, ticket sales, payment and event-day check in.
 
@@ -17,7 +17,7 @@ Townscript enables us to customize the registration form and therefore get more 
   - Volunteers
   - {Sponsor_Name} - Sponsored
 
-For the inaugural Az Conf, a ticket gives you access to all the days and all the tracks of the conference. We don't plan to sell separate tickets for individual days of the conference. **Workshops tickets if any are separate**.
+For the inaugural AzConf, a ticket gives you access to all the days and all the tracks of the conference. We don't plan to sell separate tickets for individual days of the conference. **Workshops tickets if any are separate**.
 
 ## Registration Form
 

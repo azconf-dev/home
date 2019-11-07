@@ -1,6 +1,6 @@
 # Tips to get your talk accepted
 
-Az Conf like all conferences have a Call for Papers (CFP). Writing a good proposal is paramount to getting accepted. A convincing abstract, professional head-shot, and a impressive bio will surely improve your chances of getting through. Below are some tips that we think you will find useful.
+AzConf like all conferences have a Call for Papers (CFP). Writing a good proposal is paramount to getting accepted. A convincing abstract, professional head-shot, and a impressive bio will surely improve your chances of getting through. Below are some tips that we think you will find useful.
 
 ## Writing a good proposal
 
